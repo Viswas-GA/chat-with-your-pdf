@@ -123,3 +123,8 @@ Ollama (or optional GPT) reads context + question → answer
 - Add OCR for scanned PDFs (`pytesseract` + `pdf2image`)
 
 Happy learning!
+
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/ca73de9e-647b-411c-84ad-8b4f8c1bbc66" />
+<img width="1439" height="841" alt="image" src="https://github.com/user-attachments/assets/bd8c8180-5095-44cc-8967-0f2f24225de2" />
+
+
